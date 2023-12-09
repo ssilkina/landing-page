@@ -81,3 +81,7 @@ Example: https://github.com/YourUserName/RepoName
 •
 
 Example: https://YourAppName.netlify.com
+
+## Citations
+Background Video by Andreas from Pixabay
+glass morph effect from https://css.glass 
